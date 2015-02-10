@@ -6,10 +6,10 @@
  * Time: 02:46
  */
 
-namespace Harboi\uploader;
+namespace Harboi\Uploader;
 
-use Harboi\uploader\Exception\RuntimeException;
-use Harboi\uploader\Exception\InvalidArgumentException;
+use Harboi\Uploader\Exception\RuntimeException;
+use Harboi\Uploader\Exception\InvalidArgumentException;
 
 
 class fileUploader {
