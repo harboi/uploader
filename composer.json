@@ -1,4 +1,10 @@
 {
+	
+	"autoload": {
+        "psr-4": {
+            "Harboi\\": "src/"
+        }
+    },
     "require": {
         "imagine/imagine": "~0.5.0"
     }

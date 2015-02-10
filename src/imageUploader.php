@@ -6,13 +6,13 @@
  * Time: 15:24
  */
 
-namespace adm;
+namespace Harboi\Uploader;
 
-use adm\fileUploader;
+use Harboi\Uploader\fileUploader;
 use Imagine\Gd\Imagine;
 use Imagine\Image\Box;
-use adm\Exception\RuntimeException;
-use adm\Exception\InvalidArgumentException;
+use Harboi\Uploader\Exception\RuntimeException;
+use Harboi\Uploader\Exception\InvalidArgumentException;
 
 class imageUploader {
 
