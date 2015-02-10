@@ -1,8 +1,7 @@
 {
-	
-	"autoload": {
+    "autoload": {
         "psr-4": {
-            "Harboi\\": "src/"
+            "Harboi\\Uploader\\": "src/"
         }
     },
     "require": {
